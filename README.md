@@ -1,6 +1,7 @@
-# abdallah_mansour_1stchallange
+# abdallah_mansour_1st_challange
 
-A new Flutter project.
+This project is a training for designing the login and creating an account interface 
+This is the first challenge of Eng. Abdullah Mansour
 
 ## Getting Started
 
